@@ -1,6 +1,6 @@
 import math
 import tkinter as tk
-import math as mt
+import math
 
 
 # Function to remove a character(s)
